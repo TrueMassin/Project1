@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1551626049 source:c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\src\user.cpp
+	<iostream>
+	"../include/User.h"
+	"../include/Scene.h"
+
+1551626049 c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\include\user.h
+	"Scene.h"
+
+1551730408 source:c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\src\main.cpp
+	<iostream>
+	"../include/User.h"
+	"../include/Scene.h"
+	"../include/Display.h"
+	"../include/Game.h"
+	"../include/Scenario.h"
+
+1551731371 c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\include\scene.h
+	<string>
+
+1551731003 source:c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\src\scene.cpp
+	<iostream>
+	"../include/Scene.h"
+
+1551628384 source:c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\src\display.cpp
+	"../include/Display.h"
+	"../include/User.h"
+
+1551570896 c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\include\display.h
+	"User.h"
+
+1551571884 source:c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\src\items.cpp
+
+1551731118 source:c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\src\game.cpp
+	"../include/Game.h"
+	"../include/Scene.h"
+
+1551655989 c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\include\game.h
+	"Scene.h"
+	"User.h"
+
+1551630358 c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\include\scenario.h
+	"Scene.h"
+
+1551731066 source:c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\src\scenario.cpp
+	"../include/Scenario.h"
+	"../include/Items.h"
+
+1551655425 c:\users\massin\desktop\szkola\programowanie obietkowe\projekt 1\include\items.h
+
